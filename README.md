@@ -14,23 +14,23 @@
 <br/>Combinação e Rekeição de Classificadores<br/>
 
 
-Parte 2 - Regressão:
+<h2/>Parte 2 - Regressão:<h2/>
 <br/>Regressão Linear<br/>
 <br/>Outros Tipos de Regressão<br/>
 
 
-Parte 3 - Regras de Associação:
+<h2/>Parte 3 - Regras de Associação:<h2/>
 <br/>Algoritmo apriori<br/>
 <br/>Algoritmo ECLAT<br/>
 
 
-Parte 4 - Agrupamento (clustering):
+<h2/>Parte 4 - Agrupamento (clustering):<h2/>
 <br/>Agrupamento com k-means<br/>
 <br/>Agrupamento hierárquico<br/>
 <br/>Agrupamento com DBSCAN<br/>
 
 
-Parte 5 - Tópicos complementares:
+<h2/>Parte 5 - Tópicos complementares:<h2/>
 <br/>Tratamento de dados desbalanceados<br/>
 <br/>Seleção de atributos<br/>
 <br/>Redução de dimensionalidade<br/>
