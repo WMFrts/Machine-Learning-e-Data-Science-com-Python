@@ -3,40 +3,40 @@
 
 Parte 1 - Classificação:
 <br/> Pré-processamento com pandas e sklearn <br/>
-Aprendizagem Bayesiana
-Aprendizagem por Árvore de Decisão
-Aprendizagem por Regras
-Aprendizagem Baseada em Instâncias
-Regressão Logística
-Máquinas de Vetores de Suporte (SVM)
-Redes Neurais Artificiais
-Avaliação de Algoritmos de Classificação
-Combinação e Rekeição de Classificadores
+<br/>Aprendizagem Bayesiana<br/>
+<br/>Aprendizagem por Árvore de Decisão<br/>
+<br/>Aprendizagem por Regras<br/>
+<br/>Aprendizagem Baseada em Instâncias<br/>
+<br/>Regressão Logística<br/>
+<br/>Máquinas de Vetores de Suporte (SVM)<br/>
+<br/>Redes Neurais Artificiais<br/>
+<br/>Avaliação de Algoritmos de Classificação<br/>
+<br/>Combinação e Rekeição de Classificadores<br/>
 
 
 Parte 2 - Regressão:
-Regressão Linear
-Outros Tipos de Regressão
+<br/>Regressão Linear<br/>
+<br/>Outros Tipos de Regressão<br/>
 
 
 Parte 3 - Regras de Associação:
-Algoritmo apriori
-Algoritmo ECLAT
+<br/>Algoritmo apriori<br/>
+<br/>Algoritmo ECLAT<br/>
 
 
 Parte 4 - Agrupamento (clustering):
-Agrupamento com k-means
-Agrupamento hierárquico
-Agrupamento com DBSCAN
+<br/>Agrupamento com k-means<br/>
+<br/>Agrupamento hierárquico<br/>
+<br/>Agrupamento com DBSCAN<br/>
 
 
 Parte 5 - Tópicos complementares:
-Tratamento de dados desbalanceados
-Seleção de atributos
-Redução de dimensionalidade
-Detecção de outliers
-Aprendizagem por reforço com Q-Learning
-Processamento de linguagem natural com spaCy e NLTK
-Visão computacional
-Séries temporais
+<br/>Tratamento de dados desbalanceados<br/>
+<br/>Seleção de atributos<br/>
+<br/>Redução de dimensionalidade<br/>
+<br/>Detecção de outliers<br/>
+<br/>Aprendizagem por reforço com Q-Learning<br/>
+<br/>Processamento de linguagem natural com spaCy e NLTK<br/>
+<br/>Visão computacional<br/>
+<br/>Séries temporais<br/>
 
