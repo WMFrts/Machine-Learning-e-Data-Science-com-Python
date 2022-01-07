@@ -1,5 +1,6 @@
 # Estudo sobre Machine Learning e Data Science com Python
 
+
 Parte 1 - Classificação:
 Pré-processamento com pandas e sklearn
 Aprendizagem Bayesiana
