@@ -2,7 +2,7 @@
 
 
 **Parte 1 - Classificação:**
-<br/> Pré-processamento com pandas e sklearn <br/>
+<br> Pré-processamento com pandas e sklearn <br/>
 <br/>Aprendizagem Bayesiana<br/>
 <br/>Aprendizagem por Árvore de Decisão<br/>
 <br/>Aprendizagem por Regras<br/>
