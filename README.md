@@ -1,6 +1,5 @@
 <h2>Estudo sobre Machine Learning e Data Science com Python</h2>
 
-
 <dl>
 <dt>Parte 1 - Classificação:</dt>
 <dd> Pré-processamento com pandas e sklearn </dd>
@@ -13,46 +12,27 @@
 <dd>Redes Neurais Artificiais</dd>
 <dd>Avaliação de Algoritmos de Classificação</dd>
 <dd>Combinação e Rekeição de Classificadores</dd>
+
+<dt>Parte 2 - Regressão:</dt>>
+<dd>Regressão Linear</dd>>
+<dd>Outros Tipos de Regressão</dd>>
+
+<dt>Parte 3 - Regras de Associação:</dt>>
+<dd>Algoritmo apriori</dd>>
+<dd>Algoritmo ECLAT</dd>>
+
+<dt>Parte 4 - Agrupamento (clustering):</dt>>
+<dd>Agrupamento com k-means</dd>>
+<dd>Agrupamento hierárquico</dd>>
+<dd>Agrupamento com DBSCAN</dd>>
+
+<dt>Parte 5 - Tópicos complementares:</dt>>
+<dd>Tratamento de dados desbalanceados</dd>>
+<dd>Seleção de atributos</dd>>
+<dd>Redução de dimensionalidade</dd>>
+<dd>Detecção de outliers</dd>>
+<dd>Aprendizagem por reforço com Q-Learning<dt>
+<dd>Processamento de linguagem natural com spaCy e NLTK</dd>>
+<dd>Visão computacional</dd>>
+<dd>Séries temporais</dd>>
 </dl>
-
-
-
-**Parte 1 - Classificação:**
-<br> Pré-processamento com pandas e sklearn <br/>
-<br>Aprendizagem Bayesiana<br/>
-<br/>Aprendizagem por Árvore de Decisão<br/>
-<br/>Aprendizagem por Regras<br/>
-<br/>Aprendizagem Baseada em Instâncias<br/>
-<br/>Regressão Logística<br/>
-<br/>Máquinas de Vetores de Suporte (SVM)<br/>
-<br/>Redes Neurais Artificiais<br/>
-<br/>Avaliação de Algoritmos de Classificação<br/>
-<br/>Combinação e Rekeição de Classificadores<br/>
-
-
-<h2/>Parte 2 - Regressão:<h2/>
-<br/>Regressão Linear<br/>
-<br/>Outros Tipos de Regressão<br/>
-
-
-<h2/>Parte 3 - Regras de Associação:<h2/>
-<br/>Algoritmo apriori<br/>
-<br/>Algoritmo ECLAT<br/>
-
-
-<h2/>Parte 4 - Agrupamento (clustering):<h2/>
-<br/>Agrupamento com k-means<br/>
-<br/>Agrupamento hierárquico<br/>
-<br/>Agrupamento com DBSCAN<br/>
-
-
-<h2/>Parte 5 - Tópicos complementares:<h2/>
-<br/>Tratamento de dados desbalanceados<br/>
-<br/>Seleção de atributos<br/>
-<br/>Redução de dimensionalidade<br/>
-<br/>Detecção de outliers<br/>
-<br/>Aprendizagem por reforço com Q-Learning<br/>
-<br/>Processamento de linguagem natural com spaCy e NLTK<br/>
-<br/>Visão computacional<br/>
-<br/>Séries temporais<br/>
-
