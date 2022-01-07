@@ -1,6 +1,6 @@
-<h1>Estudo sobre Machine Learning e Data Science com Python</h1>
+<h2>Estudo sobre Machine Learning e Data Science com Python</h2>
 
-<title>Estudo sobre Machine Learning e Data Science com Python</title>
+
 <dl>
 <dt>Parte 1 - Classificação:</dt>
 <dd> Pré-processamento com pandas e sklearn </dd>
