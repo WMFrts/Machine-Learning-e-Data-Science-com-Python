@@ -1,6 +1,22 @@
 # Estudo sobre Machine Learning e Data Science com Python
 
 
+<dl>
+<dt>Parte 1 - Classificação:</dt>
+<dd> Pré-processamento com pandas e sklearn </dd>
+<dd>Aprendizagem Bayesiana</dd>
+<dd>Aprendizagem por Árvore de Decisão</dd>
+<dd>Aprendizagem por Regras</dd>
+<dd>Aprendizagem Baseada em Instâncias</dd>
+<dd>Regressão Logística</dd>
+<dd>Máquinas de Vetores de Suporte(SVM)</dd>
+<dd>Redes Neurais Artificiais</dd>
+<dd>Avaliação de Algoritmos de Classificação</dd>
+<dd>Combinação e Rekeição de Classificadores</dd>
+</dl>
+
+
+
 **Parte 1 - Classificação:**
 <br> Pré-processamento com pandas e sklearn <br/>
 <br>Aprendizagem Bayesiana<br/>
