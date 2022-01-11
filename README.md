@@ -1,7 +1,5 @@
-<h2>Estudo sobre Machine Learning e Data Science com Python</h2>
+<h3>Pré-processamento com pandas e sklearn </h3>
 
-
-#Pré-processamento com pandas e sklearn 
 
 <dl>
 <dt>Importação das bibliotecas</dt>
