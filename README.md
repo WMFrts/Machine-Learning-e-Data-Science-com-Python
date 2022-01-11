@@ -1,5 +1,29 @@
 <h2>Estudo sobre Machine Learning e Data Science com Python</h2>
 
+
+#Pré-processamento com pandas e sklearn 
+
+<dl>
+<dt>Importação das bibliotecas</dt>
+<dt>Base de dados de crédito</dt>
+<dt>Visualização dos dados</dt>
+<dt>Tratamento de valores inconsistentes</dt>
+<dt>Tratamento de valores faltantes</dt>
+<dt>Divisão entre previsores e classe</dt>
+<dt>Base de dados census</dt>
+<dt>Escalonamento dos atributos</dt>
+<dt>Base de dados do censo</dt>
+<dt>Visualização dos dados</dt>
+<dt>Divisão entre previsores e classe</dt>
+<dt>Atributos categóricos – LabelEncoder</dt>
+<dt>Atributos categóricos – OneHotEncoder</dt>
+<dt>Escalonamento de atributos</dt>
+<dt>Bases de treinamento e teste</dt>
+<dt>Salvar as bases de dados</dt>
+</dl>
+
+
+
 <dl>
 <dt>Parte 1 - Classificação:</dt>
 <dd> Pré-processamento com pandas e sklearn </dd>
