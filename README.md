@@ -1,7 +1,10 @@
 <h3>Pré-processamento com pandas e sklearn </h3>
 
 
-
+1. Importação de Bibliotecas 
+2. Base de Dados de Crédito
+3. Visualização de Dados
+4. 
 
 
 <dl>
