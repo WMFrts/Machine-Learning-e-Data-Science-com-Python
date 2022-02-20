@@ -1,8 +1,11 @@
 <h3>TÍTULO</h3>
 
 Sobre
+Na descrição, adicionar gráficos e imagens ilustrativas que componham o projeto 
 
-nuvem de palavras com os assuntos estudados
+Colocar um índice
+
+
 
 
 1. Importação de Bibliotecas 
@@ -34,5 +37,3 @@ nuvem de palavras com os assuntos estudados
 * Título
 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
