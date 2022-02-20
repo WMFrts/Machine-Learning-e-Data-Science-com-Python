@@ -18,7 +18,7 @@
 
 <h3>BIBLIOTECAS</h3>
 
-<img src="">
+
 
 <h3>ÍNDICE</h3>
 
