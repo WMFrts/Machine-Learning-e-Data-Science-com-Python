@@ -44,6 +44,8 @@ Colocar um índice
 Referências
 
 SCHMITT, J. et al. Pré-processamento para a mineração de dados: uso da análise de componentes principais com escalonamento ótimo. Florianópolis, SC, 2005.
+
+
 GARBAGE IN, GARBAGE OUT. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2015. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Garbage_in,_garbage_out&oldid=41413801>. Acesso em: 19 fev. 2022.
 
 
