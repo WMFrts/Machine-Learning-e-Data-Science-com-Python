@@ -5,20 +5,19 @@
 
 <h3> SOBRE: </h3>
 
-<p align = 'JUSTIFY'> O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade destes, padronização, tipos de variáveis, transformações, tamanho da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005). 
+<p align = 'JUSTIFY'> O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade destes, padronização, tipos de variáveis, transformações, tamanho da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005). </p>
 
-<p align = 'JUSTIFY'>Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes que, caso ignorados, podem impactar negativamente na análise e interpretação - os dados de entrada precisam ser confiáveis -  pois, "Garbage in, garbage out" (lixo entra, lixo sai) - expressão atribuída ao técnico da IBM George Fuechsel.
+<p align = 'JUSTIFY'>Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes que, caso ignorados, podem impactar negativamente na análise e interpretação - os dados de entrada precisam ser confiáveis -  pois, "Garbage in, garbage out" (lixo entra, lixo sai) - expressão atribuída ao técnico da IBM George Fuechsel. </p>
 
 
-<p align = 'JUSTIFY'>Para alcançar esse objetivo desse estudo, foram utilizadas duas base de dados. Uma é a "Base Crédito", composta por dados sobre o pagamento de empréstimos; já outra, informa dados sobre um censo dos Estados Unidos e indicação de renda entre os participantes. Abaixo, é possível visualizar dois dos gráficos que constam nesse estudo sobre pré-processamento a fim de iniciar insigths e hipóteses a respeito dos dados
+<p align = 'JUSTIFY'>Para alcançar esse objetivo desse estudo, foram utilizadas duas base de dados. Uma é a "Base Crédito", composta por dados sobre o pagamento de empréstimos; já outra, informa dados sobre um censo dos Estados Unidos e indicação de renda entre os participantes. Abaixo, é possível visualizar dois dos gráficos que constam nesse estudo sobre pré-processamento a fim de iniciar insigths e hipóteses a respeito dos dados </p>
 
 
 <img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/gr%C3%A1ficos.jpg?raw=true">
 
 <h3>BIBLIOTECAS:</h3>
 
-<p> Foram utilizados as seguintes bibliotecas: 
-trecho em destaque</span>. pandas, numpy, seaborn, matplotlib e plotly </p>
+<p> Foram utilizados as seguintes bibliotecas: pandas, numpy, seaborn, matplotlib e plotly </p>
 
 <h3>ÍNDICE:</h3>
 
