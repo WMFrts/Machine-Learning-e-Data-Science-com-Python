@@ -3,7 +3,7 @@
 
 
 
-<h3> SOBRE: </h3>
+<h3> SOBRE </h3>
 
 <p align = 'JUSTIFY'> O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade destes, padronização, tipos de variáveis, transformações, tamanho da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005). </p>
 
@@ -15,11 +15,11 @@
 
 <img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/gr%C3%A1ficos.jpg?raw=true">
 
-<h3>BIBLIOTECAS:</h3>
+<h3>BIBLIOTECAS</h3>
 
 <p> Foram utilizados as seguintes bibliotecas: pandas, numpy, seaborn, matplotlib e plotly </p>
 
-<h3>ÍNDICE:</h3>
+<h3>ÍNDICE</h3>
 
 <dl>
 <dt>1 Importação das bibliotecas</dt>
@@ -41,7 +41,7 @@
 </dl>
 
 
-<h3>REFERÊNCIAS:</h3>
+<h3>REFERÊNCIAS</h3>
 
 <p align = 'JUSTIFY'>SCHMITT, J. et al. Pré-processamento para a mineração de dados: uso da análise de componentes principais com escalonamento ótimo. Florianópolis, SC, 2005.
 
