@@ -22,22 +22,22 @@
 <h3>ÍNDICE:</h3>
 
 <dl>
-<dt>1. Importação das bibliotecas</dt>
-<dt>2. Base de dados de crédito</dt>
-<dt>3. Visualização dos dados</dt>
-<dt>Tratamento de valores inconsistentes</dt>
-<dt>Tratamento de valores faltantes</dt>
-<dt>Divisão entre previsores e classe</dt>
-<dt>Base de dados census</dt>
-<dt>Escalonamento dos atributos</dt>
-<dt>Base de dados do censo</dt>
-<dt>Visualização dos dados</dt>
-<dt>Divisão entre previsores e classe</dt>
-<dt>Atributos categóricos – LabelEncoder</dt>
-<dt>Atributos categóricos – OneHotEncoder</dt>
-<dt>Escalonamento de atributos</dt>
-<dt>Bases de treinamento e teste</dt>
-<dt>Salvar as bases de dados</dt>
+<dt>1 Importação das bibliotecas</dt>
+<dt>2 Base de dados de crédito</dt>
+<dt>3 Visualização dos dados</dt>
+<dt>4 Tratamento de valores inconsistentes</dt>
+<dt>5 Tratamento de valores faltantes</dt>
+<dt>6 Divisão entre previsores e classe</dt>
+<dt>7 Base de dados census</dt>
+<dt>8 Escalonamento dos atributos</dt>
+<dt>9 Base de dados do censo</dt>
+<dt>10 Visualização dos dados</dt>
+<dt>11 Divisão entre previsores e classe</dt>
+<dt>12 Atributos categóricos – LabelEncoder</dt>
+<dt>13 Atributos categóricos – OneHotEncoder</dt>
+<dt>14 Escalonamento de atributos</dt>
+<dt>15 Bases de treinamento e teste</dt>
+<dt>16 Salvar as bases de dados</dt>
 </dl>
 
 
