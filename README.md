@@ -5,7 +5,7 @@ Sobre
 O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade destes, padronização, tipos de variáveis, transformações, tamanho
 da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005). 
 
-Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes que, caso ignorados, podem impactar negativamente na análise e interpretação - os dados de entrada precisam ser confiáveis -  pois, "Garbage in, garbage out" (lixo para dentro, lixo para fora) - expressão atribuída ao técnico da IBM George Fuechsel.
+Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes que, caso ignorados, podem impactar negativamente na análise e interpretação - os dados de entrada precisam ser confiáveis -  pois, "Garbage in, garbage out" (lixo entra, lixo sai) - expressão atribuída ao técnico da IBM George Fuechsel.
 
 
 Na descrição, adicionar gráficos e imagens ilustrativas que componham o projeto 
