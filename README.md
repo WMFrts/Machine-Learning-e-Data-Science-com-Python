@@ -2,9 +2,10 @@
 
 Sobre
 
-O pré-processamento é uma etapa de grande importância para a análise de dados, visto que estes podem resultar ou o
+O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade dos dados, padronização, tipos de variáveis, transformações, tamanho
+da base e formas que possam colaborar para a eĄciência da mineração e que se adequam
+à tarefa que será utilizada (SCHMITT et al., 2005).
 
-O pré-processamento é um conjunto de atividades que envolvem preparação, organização e estruturação dos dados. ... Essa etapa é de grande importância, pois será determinante para a qualidade final dos dados que serão analisados. Ela pode, inclusive, impactar no modelo de previsão, gerado a partir dos dados.
 
 
 Na descrição, adicionar gráficos e imagens ilustrativas que componham o projeto 
