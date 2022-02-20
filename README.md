@@ -18,7 +18,7 @@
 
 <h3>BIBLIOTECAS</h3>
 
-<p> Foram utilizados as seguintes bibliotecas: pandas, numpy, seaborn, matplotlib e plotly </p>
+<img src="">
 
 <h3>ÍNDICE</h3>
 
