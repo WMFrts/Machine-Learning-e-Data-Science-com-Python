@@ -11,7 +11,7 @@ Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes q
 Na descrição, adicionar gráficos e imagens ilustrativas que componham o projeto 
 
 
-<img src="">
+<img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/default.png?raw=true">
 
 Colocar um índice
 
