@@ -1,9 +1,10 @@
-<h3><center><b>"GARBAGE IN, GARBAGE OUT" - PRÉ-PROCESSAMENTO COM PANDAS E SKLEARN</b></center></h3>
+<h3> <center> "GARBAGE IN, GARBAGE OUT" - PRÉ-PROCESSAMENTO COM PANDAS E SKLEARN </center> </h3>
 <hr size="1" width="100%" align="center" noshade> 
 
 
 
 <h3> SOBRE </h3>
+
 
 <p align = 'JUSTIFY'> O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade destes, padronização, tipos de variáveis, transformações, tamanho da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005). </p>
 
