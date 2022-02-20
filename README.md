@@ -3,8 +3,7 @@
 Sobre
 
 O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade dos dados, padronização, tipos de variáveis, transformações, tamanho
-da base e formas que possam colaborar para a eĄciência da mineração e que se adequam
-à tarefa que será utilizada (SCHMITT et al., 2005).
+da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005).
 
 
 
@@ -41,6 +40,8 @@ Colocar um índice
 </dl>
 
 
-* Título
+Referências
+
+SCHMITT, J. et al. Pré-processamento para a mineração de dados: uso da análise de componentes principais com escalonamento ótimo. Florianópolis, SC, 2005.
 
 
