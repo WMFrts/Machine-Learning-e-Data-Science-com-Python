@@ -1,6 +1,12 @@
 <h3>TÍTULO</h3>
 
 Sobre
+
+O pré-processamento é uma etapa de grande importância para a análise de dados, visto que estes podem resultar ou o
+
+O pré-processamento é um conjunto de atividades que envolvem preparação, organização e estruturação dos dados. ... Essa etapa é de grande importância, pois será determinante para a qualidade final dos dados que serão analisados. Ela pode, inclusive, impactar no modelo de previsão, gerado a partir dos dados.
+
+
 Na descrição, adicionar gráficos e imagens ilustrativas que componham o projeto 
 
 Colocar um índice
