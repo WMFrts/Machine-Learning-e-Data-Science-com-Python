@@ -1,6 +1,8 @@
 <h3>"GARBAGE IN, GARBAGE OUT" - PRÉ-PROCESSAMENTO COM PANDAS E SKLEARN</h3>
 
-Sobre
+
+
+SOBRE:
 
 O pré-processamento envolve conhecer detalhadamente a base de dados, detectando a qualidade destes, padronização, tipos de variáveis, transformações, tamanho
 da base e formas que possam colaborar para a eficiência da mineração e que se adequam à tarefa que será utilizada (SCHMITT et al., 2005). 
@@ -8,21 +10,16 @@ da base e formas que possam colaborar para a eficiência da mineração e que se
 Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes que, caso ignorados, podem impactar negativamente na análise e interpretação - os dados de entrada precisam ser confiáveis -  pois, "Garbage in, garbage out" (lixo entra, lixo sai) - expressão atribuída ao técnico da IBM George Fuechsel.
 
 
-Na descrição, adicionar gráficos e imagens ilustrativas que componham o projeto 
+Para alcançar esse objetivo desse estudo, foram utilizadas duas base de dados. Uma é a "Base Crédito", composta por dados sobre o pagamento de empréstimos; já outra, informa dados sobre um censo dos Estados Unidos e indicação de renda entre os participantes. Abaixo, é possível visualizar dois dos gráficos que constam nesse estudo sobre pré-processamento a fim de iniciar insigths e hipóteses a respeito dos dados
 
 
 <img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/gr%C3%A1ficos.jpg?raw=true">
 
-Colocar um índice
+BIBLIOTECAS:
 
+Foram utilizados as seguintes bibliotecas: pandas, numpy, seaborn, matplotlib e plotly 
 
-
-
-1. Importação de Bibliotecas 
-2. Base de Dados de Crédito
-3. Visualização de Dados
-4. 
-
+ÍNDICE:
 
 <dl>
 <dt>Importação das bibliotecas</dt>
@@ -44,7 +41,7 @@ Colocar um índice
 </dl>
 
 
-Referências
+REFERÊNCIAS:
 
 SCHMITT, J. et al. Pré-processamento para a mineração de dados: uso da análise de componentes principais com escalonamento ótimo. Florianópolis, SC, 2005.
 
