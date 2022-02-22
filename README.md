@@ -17,6 +17,7 @@
 <img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/gr%C3%A1ficos.jpg?raw=true">
 
 <h3>BIBLIOTECAS</h3>
+<p align = JUSTIFY> Colocar em tópicos(?)
 
 
 
