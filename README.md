@@ -18,7 +18,7 @@
 
 <h3>BIBLIOTECAS</h3>
 <p align = JUSTIFY> Colocar em tópicos(?)
-
+* Pandas 
 
 
 <h3>ÍNDICE</h3>
