@@ -11,7 +11,7 @@
 <p align = 'JUSTIFY'>Dada a importância dessa etapa, esse estudo de caso aborda pontos importantes que, caso ignorados, podem impactar negativamente na análise e interpretação - os dados de entrada precisam ser confiáveis -  pois, "Garbage in, garbage out" (lixo entra, lixo sai) - expressão atribuída ao técnico da IBM George Fuechsel. </p>
 
 
-<p align = 'JUSTIFY'>Para alcançar esse objetivo desse estudo, foram utilizadas duas base de dados. Uma é a "Base Crédito", composta por dados sobre o pagamento de empréstimos; já outra, informa dados sobre um censo dos Estados Unidos e indicação de renda entre os participantes. Abaixo, é possível visualizar dois dos gráficos que constam nesse estudo sobre pré-processamento a fim de levantar insigths e hipóteses a respeito dos dados </p>
+<p align = 'JUSTIFY'>Para alcançar esse objetivo, nesse estudo, foram utilizadas duas base de dados. Uma é a "Base Crédito", composta por dados sobre o pagamento de empréstimos; já outra, informa dados sobre um censo dos Estados Unidos e indicação de renda entre os participantes. Abaixo, é possível visualizar dois dos gráficos que constam nesse estudo sobre pré-processamento a fim de levantar insigths e hipóteses a respeito dos dados </p>
 
 
 <img src="https://github.com/WMFrts/pre-processamento-com-pandas-e-sklearn/blob/main/gr%C3%A1ficos.jpg?raw=true">
