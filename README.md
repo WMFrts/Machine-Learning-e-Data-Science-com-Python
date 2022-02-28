@@ -45,15 +45,13 @@
 <dt>5 Tratamento de valores faltantes</dt>
 <dt>6 Divisão entre previsores e classe</dt>
 <dt>7 Base de dados census</dt>
-<dt>8 Escalonamento dos atributos</dt>
-<dt>9 Base de dados do censo</dt>
-<dt>10 Visualização dos dados</dt>
-<dt>11 Divisão entre previsores e classe</dt>
-<dt>12 Atributos categóricos – LabelEncoder</dt>
-<dt>13 Atributos categóricos – OneHotEncoder</dt>
-<dt>14 Escalonamento de atributos</dt>
-<dt>15 Bases de treinamento e teste</dt>
-<dt>16 Salvar as bases de dados</dt>
+<dt>8 Visualização dos dados</dt>
+<dt>9 Divisão entre previsores e classe</dt>
+<dt>10 Atributos categóricos – LabelEncoder</dt>
+<dt>11 Atributos categóricos – OneHotEncoder</dt>
+<dt>12 Escalonamento de atributos</dt>
+<dt>13 Bases de treinamento e teste</dt>
+<dt>14 Salvar as bases de dados</dt>
 </dl>
 
 
