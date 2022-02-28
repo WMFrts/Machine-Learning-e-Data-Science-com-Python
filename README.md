@@ -1,4 +1,4 @@
-<h3> <center> "GARBAGE IN, GARBAGE OUT" - PRÉ-PROCESSAMENTO COM PANDAS E SKLEARN </center> </h3>
+<h3> <center> "GARBAGE IN, GARBAGE OUT" - PRÉ-PROCESSAMENTO</center> </h3>
 <hr size="1" width="100%" align="center" noshade> 
 
 
