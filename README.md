@@ -62,4 +62,4 @@
 
 <p align = 'JUSTIFY'>GARBAGE IN, GARBAGE OUT. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2015. Disponível em: <a href= "https://pt.wikipedia.org/w/index.php?title=Garbage_in,_garbage_out&oldid=41413801">Garbage in, garbage out</a>. Acesso em: 19 fev. 2022.
 
-<a href="http://www.w3schools.com/">Visite as W3Schools!</a>
+
