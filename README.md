@@ -31,6 +31,8 @@
 
 * plotly.express
 
+* pickle
+
 
 
 <h3>ÍNDICE</h3>
