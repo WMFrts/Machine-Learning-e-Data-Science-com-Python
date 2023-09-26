@@ -25,9 +25,7 @@
 
 * seaborn
 
-
 * matplotlib.pyplot
-
 
 * plotly.express
 
